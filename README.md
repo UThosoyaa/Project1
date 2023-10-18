@@ -24,3 +24,8 @@ The libraries used for this project along with their API is also listed below:
 
 CSV format of cleaned data is available for download here:
 https://data.world/uthosoyaa/dnd-5e-gods-csv
+
+
+Limitations:
+Due to the nature of the way that the values were written in the original data, I would probably get different results if I were to actually separate the domains of gods into separate categories (IE: "War, Tempest" vs "War", "Tempest". 
+Aside from this there concerns with the limitation in the data collected is that the wiki is not up to date with the current D&D 5e canon. 
